@@ -5,6 +5,8 @@
 Voici ci-dessous le lien de notre site en production:  
   
   **Les personnes qui ont contribué à la création de ce site sont:**  
+ 
+ https://sarahtaraminy.github.io/capvert-marocindustry/
 
         *     Edmilson Alves Varela  
         *     Sarah Taraminy  
